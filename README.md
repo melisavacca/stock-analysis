@@ -45,6 +45,7 @@ Refactoring takes a lot of time and it can cause errors along the way that you m
 
 -How do these pros and cons apply to refactoring the original VBA script?
 The pros and cons of refactoring also applied to this specific VBA script.  I did have some errors while refactoring that mixed up a few things in the spreadsheet for a bit.  I had to redo parts, and this could have caused inaccurate results if I did not realize it earler.  With the refactoring, all we had to do was run the code and enter the year we wanted to run the analysis on in the MsgBox.  See below: 
+
 ![image](https://user-images.githubusercontent.com/64279232/124986048-2c731880-e009-11eb-927d-1e4bc025ee0a.png)
 
 
